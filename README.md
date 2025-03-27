@@ -4,7 +4,7 @@ Este repositório contém um projeto em Go que exibe informações do sistema do
 
 Raspberry Pi 4 com Ubuntu instalado.
 
-isplay OLED SSD1306.
+Display OLED SSD1306.
 
 Go instalado (versão mínima recomendada: 1.20).
 

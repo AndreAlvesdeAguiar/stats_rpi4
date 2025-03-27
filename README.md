@@ -39,12 +39,6 @@ Execute o programa:
 
 O programa irá coletar dados do sistema e exibi-los no display OLED conectado ao Raspberry Pi 4.
 
-### Estrutura do Projeto
-
-#├── main.go               # Arquivo principal do projeto
-#├── go.mod                # Arquivo de dependências do Go
-#├── README.md             # Documentação do projeto
-
 ### Funcionalidades Implementadas
 
 Exibição da temperatura do sistema.
